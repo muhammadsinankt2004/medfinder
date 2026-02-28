@@ -1,0 +1,141 @@
+{
+    "stores": [
+      {
+        "name": "MedPlus Pharmacy",
+        "address": "Shop #42, Kazhakoottam Main Road, Kazhakoottam",
+        "district": "thiruvananthapuram",
+        "locality": "kazhakoottam",
+        "phone": "+91 9876543210",
+        "medicines": ["Paracetamol", "Dolo 650", "Crocin", "Azithromycin", "Cetirizine"],
+        "availability": true,
+        "price": 35.50,
+        "mapIframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3941.3862064891474!2d76.9062073!3d8.5658506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zOLCwMzMnNTcuMSJOIDc2wrA1NCcyMi4zIkU!5e0!3m2!1sen!2sin!4v1612345678901!5m2!1sen!2sin",
+        "openingHours": "8:00 AM - 10:00 PM",
+        "rating": 4.2
+      },
+      {
+        "name": "Apollo Pharmacy",
+        "address": "Technopark Road, Kazhakoottam",
+        "district": "thiruvananthapuram",
+        "locality": "kazhakoottam",
+        "phone": "+91 9876543211",
+        "medicines": ["Paracetamol", "Limcee", "Montair", "Allegra", "Pantoprazole"],
+        "availability": true,
+        "price": 38.00,
+        "mapIframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3941.4124853395403!2d76.9081234!3d8.5602841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zOLCwMzMnNTUuNyJOIDc2wrA1NCcyOS4yIkU!5e0!3m2!1sen!2sin!4v1612345678902!5m2!1sen!2sin",
+        "openingHours": "9:00 AM - 11:00 PM",
+        "rating": 4.5
+      },
+      {
+        "name": "Wellness Forever",
+        "address": "Pattom Palace Road, Pattom",
+        "district": "thiruvananthapuram",
+        "locality": "pattom",
+        "phone": "+91 9876543212",
+        "medicines": ["Metformin", "Thyronorm", "Allegra", "Aspirin", "Azithromycin"],
+        "availability": true,
+        "price": 42.75,
+        "mapIframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3942.0451653942934!2d76.945123!3d8.5123453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zOLCwMzAnNDQuNCJOIDc2wrA1Nidx4oCdMS4wIkU!5e0!3m2!1sen!2sin!4v1612345678903!5m2!1sen!2sin",
+        "openingHours": "8:00 AM - 9:00 PM",
+        "rating": 4.0
+      },
+      {
+        "name": "Neethi Medical Store",
+        "address": "Edappally Junction, Edappally",
+        "district": "ernakulam",
+        "locality": "edappally",
+        "phone": "+91 9876543213",
+        "medicines": ["Paracetamol", "Omeprazole", "Crocin", "Montair", "Losartan"],
+        "availability": true,
+        "price": 36.25,
+        "mapIframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3928.865029786826!2d76.3076234!3d10.0235623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTDCsDAxJzI0LjgiTiA3NsKwMTgnMjcuNCJF!5e0!3m2!1sen!2sin!4v1612345678904!5m2!1sen!2sin",
+        "openingHours": "9:00 AM - 9:00 PM",
+        "rating": 4.7
+      },
+      {
+        "name": "Lifecare Pharmacy",
+        "address": "Lulu Mall Road, Edappally",
+        "district": "ernakulam",
+        "locality": "edappally",
+        "phone": "+91 9876543214",
+        "medicines": ["Paracetamol", "Amlodipine", "Thyronorm", "Shelcal", "Dolo 650"],
+        "availability": true,
+        "price": 32.50,
+        "mapIframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3928.870329786826!2d76.3081234!3d10.0230623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTDCsDAxJzIzLjAiTiA3NsKwMTgnMjkuMiJF!5e0!3m2!1sen!2sin!4v1612345678905!5m2!1sen!2sin",
+        "openingHours": "10:00 AM - 10:00 PM",
+        "rating": 4.3
+      },
+      {
+        "name": "Health & Glow",
+        "address": "Kakkanad Main Road, Kakkanad",
+        "district": "ernakulam",
+        "locality": "kakkanad",
+        "phone": "+91 9876543215",
+        "medicines": ["Azithromycin", "Cetirizine", "Pantoprazole", "Aciloc", "Aspirin"],
+        "availability": true,
+        "price": 40.00,
+        "mapIframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3928.982029786826!2d76.3412134!3d10.0100223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTDCsDAwJzM2LjAiTiA3NsKwMjAnMjcuNCJF!5e0!3m2!1sen!2sin!4v1612345678906!5m2!1sen!2sin",
+        "openingHours": "8:30 AM - 9:30 PM",
+        "rating": 4.1
+      },
+      {
+        "name": "Karunya Pharmacy",
+        "address": "Mavoor Road, Mavoor",
+        "district": "kozhikode",
+        "locality": "mavoor",
+        "phone": "+91 9876543216",
+        "medicines": ["Dolo 650", "Ecosprin", "Pantoprazole", "Metformin", "Amlodipine"],
+        "availability": true,
+        "price": 33.75,
+        "mapIframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3913.212029786826!2d75.9081234!3d11.2555623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTHCsDE1JzIwLjAiTiA3NcKwNTQnMjkuMiJF!5e0!3m2!1sen!2sin!4v1612345678907!5m2!1sen!2sin",
+        "openingHours": "8:00 AM - 10:00 PM",
+        "rating": 4.4
+      },
+      {
+        "name": "Popular Pharmacy",
+        "address": "Beach Road, Beypore",
+        "district": "kozhikode",
+        "locality": "beypore",
+        "phone": "+91 9876543217",
+        "medicines": ["Paracetamol", "Allegra", "Montair", "Pan-D", "Losartan"],
+        "availability": true,
+        "price": 37.50,
+        "mapIframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3913.450029786826!2d75.8212134!3d11.1855623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTHCsDExJzA4LjAiTiA3NcKwNDknMTYuNCJF!5e0!3m2!1sen!2sin!4v1612345678908!5m2!1sen!2sin",
+        "openingHours": "9:00 AM - 9:00 PM",
+        "rating": 4.6
+      },
+      {
+        "name": "Thykkad Medical Store",
+        "address": "Main Road, Kunnamkulam",
+        "district": "thrissur",
+        "locality": "kunnamkulam",
+        "phone": "+91 9876543218",
+        "medicines": ["Paracetamol", "Atorvastatin", "Crocin", "Shelcal", "Thyronorm"],
+        "availability": true,
+        "price": 35.00,
+        "mapIframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3923.212029786826!2d76.0681234!3d10.6455623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTDCsDM4JzQ0LjAiTiA3NsKwMDQnMDUuMiJF!5e0!3m2!1sen!2sin!4v1612345678909!5m2!1sen!2sin",
+        "openingHours": "8:30 AM - 8:30 PM",
+        "rating": 4.5
+      },
+      {
+        "name": "Asha Pharmacy",
+        "address": "MG Road, Pattambi",
+        "district": "palakkad",
+        "locality": "pattambi",
+        "phone": "+91 9876543219",
+        "medicines": ["Paracetamol", "Aspirin", "Limcee", "Aciloc", "Azithromycin"],
+        "availability": true,
+        "price": 39.25,
+        "mapIframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3921.212029786826!2d76.1881234!3d10.8055623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTDCsDQ4JzIwLjAiTiA3NsKwMTEnMTcuMiJF!5e0!3m2!1sen!2sin!4v1612345678910!5m2!1sen!2sin",
+        "openingHours": "9:00 AM - 9:00 PM",
+        "rating": 4.2
+      }
+    ],
+    "commonMedicines": [
+      "Paracetamol", "Amoxicillin", "Azithromycin", "Metformin", 
+      "Atorvastatin", "Omeprazole", "Losartan", "Aspirin", 
+      "Cetirizine", "Pantoprazole", "Amlodipine", "Dolo 650",
+      "Crocin", "Allegra", "Montair", "Shelcal", "Ecosprin",
+      "Pan-D", "Aciloc", "Limcee", "Thyronorm"
+    ]
+  }
